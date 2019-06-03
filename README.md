@@ -2,7 +2,6 @@
 Facial emotion recognition in real time using keras and Opencv.
 
 # Requirements
-The code is written in python<br/>
 Keras<br/>
 cv2<br/>
 Numpy<br/>
