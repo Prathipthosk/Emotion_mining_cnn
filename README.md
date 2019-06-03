@@ -17,7 +17,7 @@ Have already included a trained model.<br/>
 To simply run the model, use the script real_time_video.py
 
 # Example
-![alt text](screenshots/happy.png "Description goes here")
+![alt text](screenshots/happy.PNG "Happy")
 
 # Training
 To train the model by yourself, run train_cnn.py
